@@ -1,0 +1,6 @@
+curated_images/*
+OID_data_v6/*
+proofs
+.ipynb_checkpoints
+.DS_Store
+*.pdf
